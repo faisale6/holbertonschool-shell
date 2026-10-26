@@ -1,2 +1,2 @@
 #!/bin/bash
-tail /tec/passwd
+tail /etc/passwd
