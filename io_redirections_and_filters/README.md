@@ -28,5 +28,6 @@ Words should be sorted
 include capital letters as well
 - 19-AZ: Replace all characters A and c from input to Z and e respectively.
 - 20-hiago: Create a script that removes all letters c and C from input.
-
+- 21-reverse: a script that reverse its input.
+- 
   
