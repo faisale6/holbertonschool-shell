@@ -1,5 +1,5 @@
 
-README.mdfor init_files_variables_and_expansions
+README.md for init_files_variables_and_expansions
 
 - 0-alias: Create a script that creates an alias.
 Name: ls
@@ -16,3 +16,5 @@ Value: rm -f *
 
 POWER and DIVIDE are environment variables
 - 10-love_exponent_breath: a script that displays the result of BREATH to the power LOVE
+- 11-binary_to_decimal: a script that converts a number from base 2 to base 10.
+- 
