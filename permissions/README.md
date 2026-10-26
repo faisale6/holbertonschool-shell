@@ -32,4 +32,4 @@ The file olleh will be in the working directory
 
 The file hello will be in the working directory
 The script must be present on the github repository and on the sandbox on the folder /tmp
-- 14
+- 14-change_owner_and_group: Write a script that changes the owner to vincent and the group owner to staff for all the files and directories in the working directory.
