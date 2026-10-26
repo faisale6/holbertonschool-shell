@@ -14,4 +14,8 @@
 - 11-directories: a script that counts the number of directories and sub-directories in the current directory.The current and parent directories should not be taken into account
 Hidden directories should be counted
 - 12-newest_files: displays the 10 newest files in the current directory.
- 
+- 13-unique: Create a script that takes a list of words as input and prints only words that appear exactly once.
+
+Input format: One line, one word
+Output format: One line, one word
+Words should be sorted 
